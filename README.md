@@ -1,3 +1,5 @@
+> **Dictionary Audio now has its own repository:** [seshakiran/dictionary-audio.koplugin](https://github.com/seshakiran/dictionary-audio.koplugin), with independent releases, updater and pack tools. It works alone or through PageScribe’s optional Audio shortcut. The audio sources below remain here for compatibility; new audio development takes place in the standalone repository.
+
 > **PageScribe now has a standalone repository:** [seshakiran/pagescribe.koplugin](https://github.com/seshakiran/pagescribe.koplugin). Download the handwriting-only plugin and follow future development there. Existing notes and the `fingerink.koplugin` install folder stay compatible. This earlier fork retains the optional dictionary/audio sources and packs tooling.
 
 # PageScribe — pen and touch notes for KOReader
